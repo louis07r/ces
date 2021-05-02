@@ -4,7 +4,7 @@ $pdo = new PDO('mysql:host=127.0.0.1;dbname=MaBase;charset=utf8', 'root', 'sti2d
 <!DOCTYPE html>
 <html>
 <head>
-	<title>raspbery-graph</title>
+<title>raspbery-graph</title>
 </head>
 <?php
 header("refresh: 1;");
